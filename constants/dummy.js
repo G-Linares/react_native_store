@@ -3,11 +3,11 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
+    name: "Cove #1936",
     creator: "Putri Intan",
     price: 4.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+      "6,000 uniquely generated pirate havens with proof of ownership stored on the Solana Blockchain. Sear Rovers Mini-Collection #2",
     image: assets.nft01,
     bids: [
       {
@@ -35,7 +35,7 @@ const NFTData = [
   },
   {
     id: "NFT-02",
-    name: "Green Coins",
+    name: "Cove #3134",
     creator: "Siti Nurhaliza",
     price: 7.25,
     description:
@@ -53,7 +53,7 @@ const NFTData = [
   },
   {
     id: "NFT-03",
-    name: "NFT coins race",
+    name: "Cove #3400",
     creator: "Elisabeth aho",
     price: 95.25,
     description:
@@ -78,7 +78,7 @@ const NFTData = [
   },
   {
     id: "NFT-04",
-    name: "Nifty NFT",
+    name: "Cove #4249",
     creator: "Putri Intan",
     price: 54.25,
     description:
@@ -117,7 +117,7 @@ const NFTData = [
   },
   {
     id: "NFT-05",
-    name: "Colorful circles",
+    name: "Cove #5974",
     creator: "David doe",
     price: 10.25,
     description:
