@@ -4,7 +4,7 @@ const NFTData = [
   {
     id: "NFT-01",
     name: "Cove #1936",
-    creator: "Putri Intan",
+    creator: "Crypto Coves",
     price: 4.25,
     description:
       "6,000 uniquely generated pirate havens with proof of ownership stored on the Solana Blockchain. Sear Rovers Mini-Collection #2",
@@ -12,14 +12,14 @@ const NFTData = [
     bids: [
       {
         id: "BID-11",
-        name: "Jessica Tan",
+        name: "Crypto Coves",
         price: 4.25,
         image: assets.person02,
         date: "December 12, 2019 at 12:10 PM",
       },
       {
         id: "BID-12",
-        name: "Jennifer Sia",
+        name: "Crypto Coves",
         price: 4.5,
         image: assets.person03,
         date: "December 27, 2019 at 1:50 PM",
@@ -36,7 +36,7 @@ const NFTData = [
   {
     id: "NFT-02",
     name: "Cove #3134",
-    creator: "Siti Nurhaliza",
+    creator: "Crypto Coves",
     price: 7.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
@@ -54,7 +54,7 @@ const NFTData = [
   {
     id: "NFT-03",
     name: "Cove #3400",
-    creator: "Elisabeth aho",
+    creator: "Crypto Coves",
     price: 95.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
