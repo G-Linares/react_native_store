@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "native_store",
+    "slug": "native_store",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
