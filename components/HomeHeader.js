@@ -1,10 +1,27 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { View, Text, Image, TextInput1 } from 'react-native';
+import { COLORS, FONTS, SIZES, assets } from '../constants';
 
 const HomeHeader = () => {
   return (
-    <View>
-      <Text>HomeHeader</Text>
+    <View style={{
+      backgroundColor:COLORS.primary,
+      padding: SIZES.font
+    }}>
+      <View style={{
+        flexDirection:'row',
+        justifyContent:'space-between',
+        alignItems:'center'
+      }}>
+        <Text style={{
+          fontFamily: FONTS.bold,
+          fontSize:SIZES.extraLarge,
+          color: COLORS.white,
+          letterSpacing:"3px",
+        }}>
+          MyStore
+        </Text>
+
+      </View>
     </View>
   )
 }
