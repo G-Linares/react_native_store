@@ -16,6 +16,7 @@ import {
   DetailsDesc,
   DetailsBid,
   FocusedStatusBar,
+  Subheader
 } from "../components";
 
 
@@ -73,6 +74,7 @@ const Details = ({ route, navigation }) => {
           <React.Fragment>
             <DetailsHeader data={data} navigation={navigation} />
             <SubInfo />
+            <Subheader />
             <View style={{ padding: SIZES.font}}>
               <DetailsDesc data={data}/>
               {data.bids.length > 0 && (

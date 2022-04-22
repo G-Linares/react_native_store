@@ -6,6 +6,7 @@ import { RectButton } from './Button'
 import DetailsBid from './DetailsBid'
 import DetailsDesc from './DetailsDesc';
 import { SubInfo } from './SubInfo'
+import { Subheader } from './Subheader';
 
 export {
     HomeHeader,
@@ -15,5 +16,6 @@ export {
     RectButton,
     DetailsBid,
     DetailsDesc,
-    SubInfo
+    SubInfo,
+    Subheader
 }
